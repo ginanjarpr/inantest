@@ -1,7 +1,7 @@
 # inantest
 for lovely LP sisop
 
-kalau tidak kuat langsung (su reboot)
+kalau tidak kuat langsung `su reboot`
 
 ![alt tag](http://api.ning.com/files/rBZCY6X2uOlTJ8P9qLiTaHrX71x-bhRd9qAkTQBwNkSJPHtbC0Md09jy7l2JFbAGIWeexn8YrPUqqxKklZ5yJFL1uCaRvYYI/smiling.monkey.jpg)
 
